@@ -33,7 +33,7 @@ function Widgets() {
                 <div className="info">
                     Twitter Clone by Saumya Garg.
                     <br />
-                    <a href="" className="link">Github</a>
+                    <a href="Twitter Clone" className="link">Github</a>
                 </div>
             </div>
 
